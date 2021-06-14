@@ -28,7 +28,7 @@ playlist=Config.playlist
 
 HELP = """
 
-<b>Add the bot and User account in your Group with admin rights.
+<b>You Can't add meto your Group
 
 Start a VoiceChat
 
